@@ -1,0 +1,14 @@
+layout_spectrum: 0.6994171
+typography_spectrum: 0.08461272
+color:
+  saturation: 0.07736456
+  lightness: 0.684219
+  brandStrength: 0.7653412
+  rhythmicContrast: 0.1061207
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+name: Baidu
